@@ -66,5 +66,4 @@ Future Improvements
 🔹 Implement real-time disease monitoring with drones & IoT sensors.
 
 
-Contributors
-🚀 Developer & Researcher-aswin and siva sreeram
+
